@@ -1,6 +1,8 @@
 
 Introduction to React
 =====
+this is session 1 end repo
+---
 This program will cover on how to start working with React and making your own React components.
 The presentation will cover the following: -
  - Installing all required node modules and bundler (react-scripts)
