@@ -8,7 +8,7 @@ The presentation will cover the following: -
 - Making our first React app
  - Making our first React component and adding it to our app
  - You will also be introduced to destructuring and spread operator for faster and more efficient work flow
- - If time permits starting with react hooks and managing state of app 
+ - If time permits starting with react hooks and managing state of app <br/>
   we'll be working with stateless functional components(supports hooks) and not with class components(dosen't support hooks).
   ---
   
