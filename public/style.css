@@ -1,0 +1,53 @@
+#root{
+    height: 70vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    }
+    body{
+        background-color: rgba(143, 255, 218, 0.527);
+    }
+.container{
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+width: 50vw;
+}
+.container>div{
+padding:70px;
+}
+nav{
+    height: 40px;
+    width: 100vw;
+    position: fixed;
+top: 0;
+left: 0;
+width: 100vw;
+    border: 1px solid black;
+
+}
+nav>ul{
+    display: flex;
+justify-content: center;
+align-items: center;
+    list-style: none;
+
+
+}
+nav>ul>li{
+    width: 8%;
+    height: 100%;
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+}
+form>*{
+    padding: 3px;
+    margin: 5px;
+}
